@@ -15,10 +15,10 @@ The goal is to segment customers to allow for targeted marketing strategies, ide
 - **Seasonal Peaks:** Significant sales growth identified in February (Valentine's Day) and March (Mother's Day UK).
 - **Customer Profiles:** - *Cluster VIP:* High frequency and high spend.
   - *Cluster Occasional:* Low engagement, mostly active during specific holidays.
- 
-##🔒 Data Privacy & Anonymization
-- This project uses a real-world retail dataset. All sensitive information (Customer names, emails, and specific addresses) has been strictly anonymized using MD5 hashing and categorization techniques to ensure privacy while maintaining data integrity for analytical purposes
 
 ## 🧰 Tech Stack
 - **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 - **Algorithms:** K-Means, PCA, Linear Regression (for quantity vs. total analysis).
+
+🔒 Data Privacy & Anonymization
+- This project uses a real-world retail dataset. All sensitive information (Customer names, emails, and specific addresses) has been strictly anonymized using MD5 hashing and categorization techniques to ensure privacy while maintaining data integrity for analytical purposes
